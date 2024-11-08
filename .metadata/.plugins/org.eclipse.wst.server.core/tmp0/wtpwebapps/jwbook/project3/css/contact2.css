@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/* style.css */
+body {
+	background-color: #f8f9fa;
+}
+
+.hidden {
+	display: none;
+}
+
+.card {
+	border-radius: 10px;
+	margin-top: 20px;
+}
+
+.card-body {
+	padding: 30px;
+}
+
+.table-dark {
+	background-color: #343a40;
+	color: #fff;
+	font-size: 1.2rem;
+	text-align: left;
+}
+
+.table th,
+.table td {
+	vertical-align: middle;
+	text-align: left;
+}
+
+.action-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.action-buttons {
+	display: flex;
+	gap: 5px;
+}
+
+.btn-sm {
+	padding: 0.25rem 0.5rem;
+	font-size: 0.875rem;
+}

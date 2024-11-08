@@ -1,0 +1,12 @@
+127.0.0.1 - - [05/Jun/2024:18:08:24 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:08:54 +0900] "GET /jwbook/news.nhn?action=listNews HTTP/1.1" 200 1611
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:08:54 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:11:37 +0900] "GET /jwbook/news.nhn?action=listNews HTTP/1.1" 200 1965
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:11:42 +0900] "GET /jwbook/news.nhn?action=getNews&newsid=1 HTTP/1.1" 200 1825
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:11:52 +0900] "GET /jwbook/news.nhn?action=listNews HTTP/1.1" 200 1965
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:11:55 +0900] "GET /jwbook/news.nhn?action=deleteNews&newsid=1 HTTP/1.1" 200 1825
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:12:00 +0900] "GET /jwbook/news.nhn?action=listNews HTTP/1.1" 200 1965
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:12:02 +0900] "GET /jwbook/news.nhn?action=getNews&newsid=1 HTTP/1.1" 200 1825
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:13:01 +0900] "GET /jwbook/news.nhn?action=listNews HTTP/1.1" 200 1965
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:13:38 +0900] "GET /jwbook/news.nhn?action=getNews&newsid=1 HTTP/1.1" 200 1825
+0:0:0:0:0:0:0:1 - - [05/Jun/2024:18:13:46 +0900] "GET /jwbook/news.nhn?action=listNews HTTP/1.1" 200 1965

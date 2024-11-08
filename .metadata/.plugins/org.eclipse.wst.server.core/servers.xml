@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/WAS at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="WAS at localhost" name="WAS at localhost" runtime-id="WAS" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="jwbook::org.eclipse.jst.jee.server:jwbook::jst.web::4.0" value1="project3::org.eclipse.jst.jee.server:project3::jst.web::4.0"/>
+  </server>
+</servers>

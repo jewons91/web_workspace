@@ -1,0 +1,7 @@
+127.0.0.1 - - [12/Jun/2024:18:12:40 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:18:13:26 +0900] "GET /jwbook/contactControl HTTP/1.1" 200 1626
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:18:13:26 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [12/Jun/2024:19:16:26 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:19:16:28 +0900] "POST /jwbook/contactControl?action=login HTTP/1.1" 200 7372
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:19:16:28 +0900] "GET /jwbook/project3/css/contact2.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:19:16:28 +0900] "GET /jwbook/project3/js/contact.js HTTP/1.1" 200 1410

@@ -1,0 +1,11 @@
+127.0.0.1 - - [01/Nov/2024:19:39:31 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:39:35 +0900] "GET /project3/contact HTTP/1.1" 200 1612
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:39:35 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:39:40 +0900] "POST /project3/contact?action=login HTTP/1.1" 200 1612
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:39:45 +0900] "POST /project3/contact?action=login HTTP/1.1" 200 1612
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:46:30 +0900] "POST /project3/contact?action=login HTTP/1.1" 200 7465
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:49:24 +0900] "POST /project3/contact?action=logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:49:24 +0900] "GET /project3/contact HTTP/1.1" 200 1612
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:50:10 +0900] "POST /project3/contact?action=login HTTP/1.1" 200 7465
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:50:31 +0900] "POST /project3/contact?action=messageList HTTP/1.1" 200 2637
+0:0:0:0:0:0:0:1 - - [01/Nov/2024:19:50:47 +0900] "GET /project3/contact?action=contactList HTTP/1.1" 200 7465
