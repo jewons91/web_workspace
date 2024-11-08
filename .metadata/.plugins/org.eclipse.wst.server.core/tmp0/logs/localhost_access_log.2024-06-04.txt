@@ -38,3 +38,4 @@
 0:0:0:0:0:0:0:1 - - [04/Jun/2024:16:09:36 +0900] "GET /jwbook/studentControl?action=list HTTP/1.1" 200 1801
 0:0:0:0:0:0:0:1 - - [04/Jun/2024:16:09:36 +0900] "GET /jwbook/studentControl?action=list HTTP/1.1" 200 1801
 0:0:0:0:0:0:0:1 - - [04/Jun/2024:16:09:36 +0900] "GET /jwbook/studentControl?action=list HTTP/1.1" 200 1801
+127.0.0.1 - - [04/Jun/2024:17:17:47 +0900] "GET / HTTP/1.1" 404 807
